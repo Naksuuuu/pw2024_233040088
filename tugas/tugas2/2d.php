@@ -33,7 +33,6 @@
             } else {
                 echo "<div class='box white'></div>";
             }
-            
         }
     }
     ?>
